@@ -28,9 +28,8 @@ There are two types of variables,
 
  - Local Variables are declared inside a block or a function and are only available inside that block. This means that we cant access that variable outside that block
  
-    `const setCurrentIndex = () => {
+    `const variableFunction = () => {
            const name = myName;
-           
            const age = myAge;
         };`
     
