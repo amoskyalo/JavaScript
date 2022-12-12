@@ -28,11 +28,12 @@ There are two types of variables,
 
  - Local Variables are declared inside a block or a function and are only available inside that block. This means that we cant access that variable outside that block
  
-    `function personName(){ 
-            let name = myName
-        }`
+    `const setCurrentIndex = () => {
+           const name = myName;
+           const age = myAge;
+        };`
     
-In the above example, name is only declared inside that funcion, this means we cant access name variable outside the function
+In the above example, name and age are only declared inside that funcion, this means we cant access themoutside the function
 
  - Global Variables are declared outside functions or block. This means they are available globaly.
  
