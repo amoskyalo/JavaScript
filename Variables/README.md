@@ -30,6 +30,7 @@ There are two types of variables,
  
     `const setCurrentIndex = () => {
            const name = myName;
+           
            const age = myAge;
         };`
     
