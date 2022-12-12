@@ -1,1 +1,1 @@
-# Learning About JavaScript Variables
+# JavaScript Variables
