@@ -1,6 +1,6 @@
-# My JavaScript Learning Journey Documentation
+# JavaScript
 
-Hello there developer. Welcome to my repository. In this repository, I document my JavaScript learning joureny.
+Hello there developer. Welcome to my repository. In this repository, I have documented my javaScript learning journey.
 You can always feel free to contribute to this repo. Also, if you find this repo of help, dont forget to leave a star.
 
 ## What you will find in this repo.
@@ -19,4 +19,4 @@ You can always feel free to contribute to this repo. Also, if you find this repo
  - Events 
  - Errors
  
-If you finr anything you can add to this repo, you can always do so by creating a pull request.
+If you find anything of important that you can add to this repo, you can always do so by creating a pull request.
